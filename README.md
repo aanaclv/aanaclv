@@ -10,6 +10,7 @@ Iniciei minha jornada acadêmica no curso de Letras na UFRPE, onde tive a oportu
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aanaclv&show_icons=true&count_private=true&hide_border=true&title_color=ffc1d5&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Ana Clara Alves github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanaclv&layout=compact&hide_border=true&title_color=ffc1d5&text_color=00bfbf&bg_color=0d1117" />
 </div>
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
