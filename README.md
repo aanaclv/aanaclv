@@ -5,6 +5,7 @@
 Iniciei minha jornada acadêmica no curso de Letras na UFRPE, onde tive a oportunidade de desenvolver habilidades de comunicação e compreensão literária. No entanto, após refletir sobre meus interesses e aspirações profissionais, decidi redirecionar minha trajetória para a área da tecnologia, esta mudança reflete meu desejo de abraçar um campo dinâmico e inovador, onde posso combinar minha capacidade analítica com a criatividade para resolver problemas e criar soluções tecnológicas.
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-E4405F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-clara-6367862bb/?trk=opento_sprofile_topcard)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/aanaclv/)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aanaclv&show_icons=true&count_private=true&hide_border=true&title_color=ffc1d5&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Ana Clara Alves github stats" /> 
