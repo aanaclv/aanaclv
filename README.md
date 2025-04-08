@@ -18,6 +18,7 @@ Iniciei minha jornada acadêmica no curso de Letras na UFRPE, onde tive a oportu
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-fc6998?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-fa8fb1?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-ffc1d5?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img align="center" alt="bootstrap" src="https://img.shields.io/badge/bootstrap-fc6998?style=for-the-badge&logo=html5&logoColor=white" />
   
 </div><br/>
 
