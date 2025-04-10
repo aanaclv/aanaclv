@@ -2,7 +2,7 @@
 
 ## Sobre mim:
 "Para um eterno estudante, todo lugar e situação podem se tornar uma sala de aula" - Thays Lessa. <br>
-Iniciei minha jornada acadêmica no curso de Letras na UFRPE, onde tive a oportunidade de desenvolver habilidades de comunicação e compreensão literária. No entanto, após refletir sobre meus interesses e aspirações profissionais, decidi redirecionar minha trajetória para a área da tecnologia, esta mudança reflete meu desejo de abraçar um campo dinâmico e inovador, onde posso combinar minha capacidade analítica com a criatividade para resolver problemas e criar soluções tecnológicas.
+Iniciei minha trajetória profissional na área de Letras, onde desenvolvi um olhar apurado para a comunicação, organização textual e atenção aos detalhes. No entanto, foi na Tecnologia da Informação que encontrei minha verdadeira paixão: resolver problemas de forma lógica e construir soluções que impactam a vida das pessoas.
 
 ## Onde me encontrar:
 [![Linkedin](https://img.shields.io/badge/Linkedin-E4405F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-clara-6367862bb/?trk=opento_sprofile_topcard)
