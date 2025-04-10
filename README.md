@@ -4,6 +4,7 @@
 "Para um eterno estudante, todo lugar e situação podem se tornar uma sala de aula" - Thays Lessa. <br>
 Iniciei minha jornada acadêmica no curso de Letras na UFRPE, onde tive a oportunidade de desenvolver habilidades de comunicação e compreensão literária. No entanto, após refletir sobre meus interesses e aspirações profissionais, decidi redirecionar minha trajetória para a área da tecnologia, esta mudança reflete meu desejo de abraçar um campo dinâmico e inovador, onde posso combinar minha capacidade analítica com a criatividade para resolver problemas e criar soluções tecnológicas.
 
+## Onde me encontrar:
 [![Linkedin](https://img.shields.io/badge/Linkedin-E4405F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-clara-6367862bb/?trk=opento_sprofile_topcard)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/cladaily.dev/)
 
@@ -12,13 +13,20 @@ Iniciei minha jornada acadêmica no curso de Letras na UFRPE, onde tive a oportu
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanaclv&layout=compact&hide_border=true&title_color=ffc1d5&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-## Tecnologias que eu uso no meu dia
+## Tech stack
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-fc6998?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-fa8fb1?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-ffc1d5?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img align="center" alt="bootstrap" src="https://img.shields.io/badge/bootstrap-fc6998?style=for-the-badge&logo=html5&logoColor=white" />
+   <img align="center" alt="python" src="https://img.shields.io/badge/PYTHON-fc6998?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-fc6998?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-fc6998?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img align="center" alt="bootstrap" src="https://img.shields.io/badge/bootstrap-fc6998?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img align="center" alt="figma" src="https://img.shields.io/badge/figma-fc6998?style=for-the-badge&logo=figma&logoColor=white" />
+  <img align="center" alt="canva" src="https://img.shields.io/badge/canva-fc6998?style=for-the-badge&logo=canva&logoColor=white" />
+  <img align="center" alt="kanban" src="https://img.shields.io/badge/kanban-fc6998?style=for-the-badge&logo=kanban&logoColor=white" />
+  <img align="center" alt="scrum" src="https://img.shields.io/badge/scrum-fc6998?style=for-the-badge&logo=scrump&logoColor=white" />
+  <img align="center" alt="jira" src="https://img.shields.io/badge/jira-fc6998?style=for-the-badge&logo=jira&logoColor=white" />
+  <img align="center" alt="trello" src="https://img.shields.io/badge/trello-fc6998?style=for-the-badge&logo=trello&logoColor=white" />
   
 </div><br/>
 
