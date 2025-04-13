@@ -1,8 +1,8 @@
 ## 💌 Ana Clara Alves
+### Software Engineer | Estudande de ADS @ Com.domínio Digital 4.0
 
 ## Sobre mim:
-"Para um eterno estudante, todo lugar e situação podem se tornar uma sala de aula" - Thays Lessa. <br>
-Iniciei minha trajetória profissional na área de Letras, onde desenvolvi um olhar apurado para a comunicação, organização textual e atenção aos detalhes. No entanto, foi na Tecnologia da Informação que encontrei minha verdadeira paixão: resolver problemas de forma lógica e construir soluções que impactam a vida das pessoas.
+Sou movida por desafios e apaixonada por aprendizado contínuo. Tenho buscado entender não só as linguagens de programação, mas também como a tecnologia pode gerar valor real no cotidiano das pessoas e nas organizações. Acredito no poder da colaboração, na aplicação de metodologias ágeis e na construção de soluções práticas, eficientes e humanas :)
 
 ## Onde me encontrar:
 [![Linkedin](https://img.shields.io/badge/Linkedin-E4405F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-clara-6367862bb/?trk=opento_sprofile_topcard)
@@ -13,23 +13,30 @@ Iniciei minha trajetória profissional na área de Letras, onde desenvolvi um ol
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanaclv&layout=compact&hide_border=true&title_color=ffc1d5&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-## Tech stack
+## Minha pilha de tecnologias:
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-fc6998?style=for-the-badge&logo=html5&logoColor=white" />
-   <img align="center" alt="python" src="https://img.shields.io/badge/PYTHON-fc6998?style=for-the-badge&logo=python&logoColor=white" />
+   <img align="center" alt="python" src="https://img.shields.io/badge/PYTHON-F10066?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-fc6998?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-fc6998?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F10066?style=for-the-badge&logo=javascript&logoColor=white" />
   <img align="center" alt="bootstrap" src="https://img.shields.io/badge/bootstrap-fc6998?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img align="center" alt="figma" src="https://img.shields.io/badge/figma-fc6998?style=for-the-badge&logo=figma&logoColor=white" />
+  <img align="center" alt="figma" src="https://img.shields.io/badge/figma-F10066?style=for-the-badge&logo=figma&logoColor=white" />
   <img align="center" alt="canva" src="https://img.shields.io/badge/canva-fc6998?style=for-the-badge&logo=canva&logoColor=white" />
-  <img align="center" alt="kanban" src="https://img.shields.io/badge/kanban-fc6998?style=for-the-badge&logo=kanban&logoColor=white" />
+  <img align="center" alt="kanban" src="https://img.shields.io/badge/kanban-F10066?style=for-the-badge&logo=kanban&logoColor=white" />
   <img align="center" alt="scrum" src="https://img.shields.io/badge/scrum-fc6998?style=for-the-badge&logo=scrump&logoColor=white" />
-  <img align="center" alt="jira" src="https://img.shields.io/badge/jira-fc6998?style=for-the-badge&logo=jira&logoColor=white" />
+  <img align="center" alt="asana" src="https://img.shields.io/badge/asana-F10066?style=for-the-badge&logo=jira&logoColor=white" />
   <img align="center" alt="trello" src="https://img.shields.io/badge/trello-fc6998?style=for-the-badge&logo=trello&logoColor=white" />
   
 </div><br/>
 
+#### 💗 Atualmente estou estudando **Python** para aprimoramento de conhecimento.
+
+#### 🖥️ Próximos estudos: Java | SQL
+
+#### 📄 Você pode conferir os meus projetos [aqui!](https://github.com/aanaclv?tab=repositories)
+
+#### 📬 Email: anaclaraalves675@gmail.com
 <!--
 **aanaclv/aanaclv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
