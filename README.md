@@ -23,8 +23,6 @@ Sou movida por desafios e apaixonada por aprendizado contínuo. Tenho buscado en
   <img align="center" alt="bootstrap" src="https://img.shields.io/badge/bootstrap-fc6998?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img align="center" alt="figma" src="https://img.shields.io/badge/figma-F10066?style=for-the-badge&logo=figma&logoColor=white" />
   <img align="center" alt="canva" src="https://img.shields.io/badge/canva-fc6998?style=for-the-badge&logo=canva&logoColor=white" />
-  <img align="center" alt="kanban" src="https://img.shields.io/badge/kanban-F10066?style=for-the-badge&logo=kanban&logoColor=white" />
-  <img align="center" alt="scrum" src="https://img.shields.io/badge/scrum-fc6998?style=for-the-badge&logo=scrump&logoColor=white" />
   <img align="center" alt="asana" src="https://img.shields.io/badge/asana-F10066?style=for-the-badge&logo=jira&logoColor=white" />
   <img align="center" alt="trello" src="https://img.shields.io/badge/trello-fc6998?style=for-the-badge&logo=trello&logoColor=white" />
   
