@@ -19,13 +19,12 @@ Sou movida por desafios e apaixonada por aprendizado contínuo. Tenho buscado en
   <img align="center" alt="python" src="https://img.shields.io/badge/PYTHON-F10066?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="pandas" src="https://img.shields.io/badge/pandas-fc6998?style=for-the-badge&logo=pandas&logoColor=white" />
   <img align="center" alt="numpy" src="https://img.shields.io/badge/numpy-F10066?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img align="center" alt="scikit-learn" src="https://img.shields.io/badge/scikitlearn-fc6998?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-fc6998?style=for-the-badge&logo=.NET&logoColor=white" />
   <img align="center" alt="machinelearning" src="https://img.shields.io/badge/machine learning-F10066?style=for-the-badge&logo=machinelearning&logoColor=white" />
   <img align="center" alt="ETL" src="https://img.shields.io/badge/ETL-fc6998?style=for-the-badge&logo=ETL&logoColor=white" />
   <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-F10066?style=for-the-badge&logo=SQL&logoColor=white" />
-  <img align="center" alt="excel" src="https://img.shields.io/badge/excel-fc6998?style=for-the-badge&logo=excel&logoColor=white" />
-  <img align="center" alt="scrum" src="https://img.shields.io/badge/scrum-F10066?style=for-the-badge&logo=scrum&logoColor=white" />
-  <img align="center" alt="kanban" src="https://img.shields.io/badge/kanban-fc6998?style=for-the-badge&logo=kanban&logoColor=white" />
+  <img align="center" alt="scrum" src="https://img.shields.io/badge/scrum-fc6998?style=for-the-badge&logo=scrum&logoColor=white" />
+  <img align="center" alt="kanban" src="https://img.shields.io/badge/kanban-F10066?style=for-the-badge&logo=kanban&logoColor=white" />
 
 
   
