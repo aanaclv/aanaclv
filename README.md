@@ -1,11 +1,11 @@
-## 💌 Ana Clara Alves
-### TI Student | Technical Administration | Data Sciense | Python | MySQL | Excel | BI
+## Ana Clara Alves
+### Administrative Technician | Back-end Developer | .NET, C#, SQL
 
 ## Sobre mim:
 Sou movida por desafios e apaixonada por aprendizado contínuo. Tenho buscado entender não só as linguagens de programação, mas também como a tecnologia pode gerar valor real no cotidiano das pessoas e nas organizações. Acredito no poder da colaboração, na aplicação de metodologias ágeis e na construção de soluções práticas, eficientes e humanas :)
 
 ## Onde me encontrar:
-[![Linkedin](https://img.shields.io/badge/Linkedin-E4405F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-clara-6367862bb/?trk=opento_sprofile_topcard)
+[![Linkedin](https://img.shields.io/badge/Linkedin-E4405F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aanaclv/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/cla.clv/)
 
 <div align="center">  
@@ -17,8 +17,8 @@ Sou movida por desafios e apaixonada por aprendizado contínuo. Tenho buscado en
 
 <div style="display: inline_block">
   <img align="center" alt="python" src="https://img.shields.io/badge/PYTHON-F10066?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="pandas" src="https://img.shields.io/badge/pandas-fc6998?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img align="center" alt="numpy" src="https://img.shields.io/badge/numpy-F10066?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img align="center" alt="EntityFramework" src="https://img.shields.io/badge/EF-fc6998?style=for-the-badge&logo=EF&logoColor=white" />
+  <img align="center" alt="Java" src="https://img.shields.io/badge/java-F10066?style=for-the-badge&logo=java&logoColor=white" />
   <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-fc6998?style=for-the-badge&logo=.NET&logoColor=white" />
   <img align="center" alt="machinelearning" src="https://img.shields.io/badge/machine learning-F10066?style=for-the-badge&logo=machinelearning&logoColor=white" />
   <img align="center" alt="ETL" src="https://img.shields.io/badge/ETL-fc6998?style=for-the-badge&logo=ETL&logoColor=white" />
