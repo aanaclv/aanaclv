@@ -1,5 +1,5 @@
 ## Ana Clara Alves
-### Administrative Technician | Back-end Developer | Java
+### Software Engineer | Back-end Developer | Java
 
 ## Sobre mim:
 Sou movida por desafios e apaixonada por aprendizado contínuo. Tenho buscado entender não só as linguagens de programação, mas também como a tecnologia pode gerar valor real no cotidiano das pessoas e nas organizações. Acredito no poder da colaboração, na aplicação de metodologias ágeis e na construção de soluções práticas, eficientes e humanas :)
