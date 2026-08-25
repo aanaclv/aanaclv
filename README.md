@@ -1,5 +1,5 @@
 <p align="center">
-<img src="capa-perfil.gif" width="700">
+<img src="capa-perfil.gif" width="500">
 </p>
 
 #
