@@ -1,12 +1,10 @@
 <p align="center">
-<img src="capa-perfil.gif" width="500">
 </p>
 
 #
 
-<p align="center">Analista Business Tax com paixão por dados, tecnologia e resolução de problemas. Atualmente graduanda em Análise e Desenvolvimento de Sistemas no CESAR School, conectando negócios, processos e tecnologia para transformar dados em insights e decisões.
-  
-#
+<p align="center">Com formação em técnica em Administração, experiência na área tributária e atualmente graduanda em Análise e Desenvolvimento de Sistemas, desenvolvo uma visão que combina estratégia, processos e tecnologia para transformar informações complexas em decisões mais inteligentes.
+
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
