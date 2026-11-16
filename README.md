@@ -6,23 +6,23 @@
 <p align="center">
   <img align="right" alt="" height="190px" src="./src/study.gif">
   
-  ### Olá, que bom te ver por aqui! ˚˖𓍢ִ໋🦢˚
+  ### Hello, nice to see you here! ˚˖𓍢ִ໋🦢˚
   
-  Sou a **Ana Clara**, desenvolvedora de software apaixonada por criar soluções eficientes, funcionais e bem estruturadas. Com formação técnica em Administração, experiência na área tributária e atualmente graduanda em Análise e Desenvolvimento de Sistemas no **CESAR School**, uno uma visão estratégica de processos ao ecossistema **C# e .NET**.
+  I am **Ana Clara**, a software developer passionate about building efficient, functional, and well-structured solutions. With a technical background in Administration, experience in the tax/fiscal domain, and currently pursuing a degree in Systems Analysis and Development at **CESAR School**, I combine a strategic process mindset with the **C# and .NET** ecosystem.
   
-  Adoro transformar ideias em código limpo, organizado e escalável — aplicando conceitos de **Clean Architecture**, **SOLID** e boas práticas. Embora o meu coração bata mais forte pelo backend com .NET, também transito com carinho por **Java** e **Python**.
+  I love turning ideas into clean, organized, and scalable code — applying principles of **Clean Architecture**, **SOLID**, and best practices. While my heart beats strongest for .NET backend development, I also enjoy working with **Java** and **Python**.
 </p>
 
 #
 
-<h3 align="left">‪‪✦‬ O que estou explorando:</h3>
+<h3 align="left">‪‪✦‬ What I'm exploring:</h3>
 
 <p align="left">
-  - ❀ <strong>Foco atual:</strong> Aprofundando em C#, .NET Core, APIs RESTful e arquiteturas robustas.<br>
-  - ❀ <strong>No dia a dia:</strong> Escrevendo código legível, testando, automatizando tarefas e estruturando bancos de dados relacionais.<br>
+  - ❀ <strong>Current focus:</strong> Deepening my knowledge in C#, .NET Core, RESTful APIs, and robust architectures.<br>
+  - ❀ <strong>Day-to-day:</strong> Writing readable code, testing, automating tasks, and structuring relational databases.<br>
 </p>
 
-<h3 align="left">Vamos nos conectar? </h3>
+<h3 align="left">Let's connect? </h3>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-880E4F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aanaclv/)
 
