@@ -3,30 +3,43 @@
 
 #
 
-<p align="center">Com formação em técnica em Administração, experiência na área tributária e atualmente graduanda em Análise e Desenvolvimento de Sistemas, desenvolvo uma visão que combina estratégia, processos e tecnologia para transformar informações complexas em decisões mais inteligentes.
+<p align="center">
+  <img align="right" alt="" height="190px" src="./src/study.gif">
+  
+  ### Olá, que bom te ver por aqui! ˚˖𓍢ִ໋🦢˚
+  
+  Sou a **Ana Clara**, desenvolvedora de software apaixonada por criar soluções eficientes, funcionais e bem estruturadas. Com formação técnica em Administração, experiência na área tributária e atualmente graduanda em Análise e Desenvolvimento de Sistemas no **CESAR School**, uno uma visão estratégica de processos ao ecossistema **C# e .NET**.
+  
+  Adoro transformar ideias em código limpo, organizado e escalável — aplicando conceitos de **Clean Architecture**, **SOLID** e boas práticas. Embora o meu coração bata mais forte pelo backend com .NET, também transito com carinho por **Java** e **Python**.
+</p>
 
+#
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<h3 align="left">‪‪✦‬ O que estou explorando:</h3>
 
-<h3 align="left">Me encontre no: </h3>
+<p align="left">
+  - ❀ <strong>Foco atual:</strong> Aprofundando em C#, .NET Core, APIs RESTful e arquiteturas robustas.<br>
+  - ❀ <strong>No dia a dia:</strong> Escrevendo código legível, testando, automatizando tarefas e estruturando bancos de dados relacionais.<br>
+</p>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:anaclaraalves675@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/aanaclv/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/dailybyclaracol/)
+<h3 align="left">Vamos nos conectar? </h3>
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-880E4F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aanaclv/)
 
-<h3 align="left">My Stack ~</h3>
+<h3 align="left">My Stack ୨ৎ</h3>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
-  <img width="8" />
-
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-D63384?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-C2185B?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-D81B60?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-EC407A?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/clean%20architecture-AD1457?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP%20.net%20core-BA68C8?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/EF%20Core-E91E63?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINQ-F48FB1?style=for-the-badge&logo=c-sharp&logoColor=white;color=black" />
+  <img src="https://img.shields.io/badge/Git-C2185B?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Github-880E4F?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 #
 
